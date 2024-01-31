@@ -1,0 +1,17 @@
+@media screen and (max-width: 991px) {
+    .home h1 {
+        font-size: 30px;
+    }
+
+    .about .col-md-7 .side-left {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .features .col-md-7 .side-left {
+        padding: 20px !important;
+    }
+
+
+}
